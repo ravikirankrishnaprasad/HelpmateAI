@@ -26,8 +26,8 @@ Mr.HelpMate AI is a retrieval-augmented generative (RAG) search system designed 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Mr.HelpMateAI.git
-   cd Mr.HelpMateAI
+   git clone https://github.com/ravikirankrishnaprasad/HelpmateAI.git
+   cd HelpmateAI
    ```
 2. Install the required dependencies:
    ```bash
@@ -83,5 +83,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or suggestions, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: vkrk077@gmail.com
+- **GitHub**: [ravikirankrishnaprasad](https://github.com/ravikirankrishnaprasad)
