@@ -1,4 +1,4 @@
-# Mr.HelpMate AI: Generative Search System for Life Insurance Policy
+# Mr.HelpMate AI: Generative AI Search System for Life Insurance Policy
 
 ## Overview
 Mr.HelpMate AI is a retrieval-augmented generative (RAG) search system designed to provide concise and accurate answers to queries about life insurance policy documents. This system combines document embedding, advanced search, and generative capabilities to deliver high-quality, context-aware responses.
